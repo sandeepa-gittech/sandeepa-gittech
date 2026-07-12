@@ -45,6 +45,7 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/45944779/original/a2d7277a49dfa83025e956fd2b62894706e36daf/help-you-with-a-blender-3d-problem.jpg" alt="blender" width="40" height="40"/> </a>
 <a href="https://www.autodesk.com/products/fusion-360" target="_blank" rel="noreferrer"> <img src="https://tse3.mm.bing.net/th/id/OIP.alliKMxFHBQE1PF-7U9A5gAAAA?w=400&h=400&rs=1&pid=ImgDetMain&o=7&rm=3" alt="fusion 360" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.sanity.io/images/599r6htc/regionalized/5094051dac77593d0f0978bdcbabaf79e5bb855c-1080x1080.png?w=540&q=75&fit=max&auto=format&dpr=1.5" alt="figma" width="40" height="40"/> </a>
 </p>
 
 </td></tr>
